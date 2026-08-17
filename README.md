@@ -35,10 +35,25 @@ Currently focused on developing full-stack systems using modern technologies, wi
 
 ### Database & Infrastructure
 
+### Database & Infrastructure
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+Experience with:
+
+- PostgreSQL (Relational Database)
+- MongoDB (NoSQL Database)
+- Prisma ORM
+- Database schema design
+- Query optimization
+- Data modeling
+- Database migration
+- API data management
 
 ---
 
