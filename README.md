@@ -42,3 +42,49 @@ Currently focused on developing full-stack systems using modern technologies, wi
 
 ---
 
+## 🤖 AI & Developer Tools
+
+### AI Integration
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+
+Experience with:
+
+- Integrating AI APIs into web applications
+- Building AI-powered features and workflows
+- Prompt engineering and AI-assisted development
+- Using LLMs for automation and productivity improvements
+- Designing AI interaction flows
+
+---
+
+### AI Development Tools
+
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
+
+Tools used:
+
+- Claude AI
+- OpenAI ChatGPT
+- Google Gemini
+- Cursor
+- GitHub Copilot
+- Antigravity
+- OpenClaw
+- AI coding assistants
+
+Used for:
+
+- Code generation and review
+- Debugging assistance
+- Documentation
+- Architecture brainstorming
+- Development workflow optimization
+
+
+
+
+
