@@ -10,7 +10,7 @@ Currently focused on developing full-stack systems using modern technologies, wi
 
 ## 🚀 About Me
 
-- 🎓 Final-year Software Engineering student at SMK
+- 🎓 Final-year Software Engineering student at SMK Ghama Caraka
 - 💻 Building production-ready web applications and SaaS platforms
 - 🌱 Currently improving my skills in backend engineering, system design, and cloud infrastructure
 - 🔍 Interested in software architecture, cybersecurity, and scalable systems
