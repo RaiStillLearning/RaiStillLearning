@@ -35,8 +35,6 @@ Currently focused on developing full-stack systems using modern technologies, wi
 
 ### Database & Infrastructure
 
-### Database & Infrastructure
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
