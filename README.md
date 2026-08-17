@@ -42,20 +42,3 @@ Currently focused on developing full-stack systems using modern technologies, wi
 
 ---
 
-# Featured Projects
-
-## 🚀 WhatsApp Automation SaaS
-
-A full-stack SaaS platform designed to automate WhatsApp communication workflows.
-
-### Highlights:
-
-- Multi-user authentication
-- Workspace management
-- Background job processing
-- Queue-based architecture
-- Database management
-- API integration
-- Real-time communication
-
-### Technologies:
