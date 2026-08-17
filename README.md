@@ -57,46 +57,30 @@ Experience with:
 
 ## 🤖 AI & Developer Tools
 
-### AI Integration
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_AI-000000?style=flat)
 
-Experience with:
+Tools & Experience:
 
-- Integrating AI APIs into web applications
-- Building AI-powered features and workflows
-- Prompt engineering and AI-assisted development
-- Using LLMs for automation and productivity improvements
-- Designing AI interaction flows
-
----
-
-### AI Development Tools
-
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
-
-Tools used:
-
+- OpenAI API integration
 - Claude AI
-- OpenAI ChatGPT
+- ChatGPT
 - Google Gemini
-- Cursor
-- GitHub Copilot
-- Antigravity
+- Antigravity AI
 - OpenClaw
-- AI coding assistants
+- n8n automation workflows
 
 Used for:
 
-- Code generation and review
-- Debugging assistance
-- Documentation
+- AI-assisted software development
+- Code analysis and debugging
 - Architecture brainstorming
-- Development workflow optimization
-
+- Documentation generation
+- Workflow automation
+- Building AI-powered applications
+- Prompt engineering
 
 
 
